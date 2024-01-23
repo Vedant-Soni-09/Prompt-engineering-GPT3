@@ -1,25 +1,27 @@
-Mischievously Evil Job Listings
+# Mischievously Evil Job Listings
+
 Welcome to the Mischievously Evil Job Listings project! 🌐
 
-Introduction
+## Introduction
+
 This project is a playful exploration of the intersection between artificial intelligence and dark humor. Using the power of OpenAI's GPT-3, we've created a unique experience that generates fictional job listings for a devilish temp agency run by Satan. The goal? Craft job offers so absurdly unsuitable that even the bravest job seekers would think twice.
 
-Features
-Interactive Interview Simulation: Engage in an interactive interview simulation by providing your responses to specific questions. Witness how GPT-3 crafts job listings tailored to your inputs.
+## Features
 
-Dynamic Job Descriptions: The project dynamically generates job titles, descriptions, annual salaries, and hilariously useless benefits based on user inputs, creating a whimsical and entertaining narrative.
+- **Interactive Interview Simulation:** Engage in an interactive interview simulation by providing your responses to specific questions. Witness how GPT-3 crafts job listings tailored to your inputs.
+  
+- **Dynamic Job Descriptions:** The project dynamically generates job titles, descriptions, annual salaries, and hilariously useless benefits based on user inputs, creating a whimsical and entertaining narrative.
 
-Real-World Application: While the primary aim is entertainment, the generated job listings can serve as creative writing exercises or simply provide a good laugh. Feel free to share your favorite concoctions with the community!
+- **Real-World Application:** While the primary aim is entertainment, the generated job listings can serve as creative writing exercises or simply provide a good laugh. Feel free to share your favorite concoctions with the community!
 
-Getting Started
+## Getting Started
+
 To experience the Mischievously Evil Job Listings project, follow these steps:
 
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/mischievous-job-listings.git
-cd mischievous-job-listings
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/mischievous-job-listings.git
+   cd mischievous-job-listings
 Install dependencies (ensure you have Python installed):
 
 bash
